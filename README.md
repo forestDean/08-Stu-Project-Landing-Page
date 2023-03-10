@@ -3,7 +3,7 @@ Module 01 Mini-Project: Landing Page
 
 ## Description
 
-A landing page with Semantic HTML, CSS selectors, set fonts, headings, fixed header, a navigation bar, anchor link anf form
+A landing page with Semantic HTML, CSS selectors, set fonts, headings, fixed header, a navigation bar, anchor link and form.
 
 
 ## Installation
@@ -12,7 +12,7 @@ n/a
 
 ## Usage
 
-This is a student course project deployed to GitHub Pages
+This is a student course project deployed to GitHub Pages.
 
 ## Credits
 
